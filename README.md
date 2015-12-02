@@ -15,3 +15,4 @@ We love to see your progress! When you finish `jQuery Decorator`, screenshot you
 ## Tech News
 
 If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
+<a href='https://learn.co/lessons/hs-code-club-more-jquery-methods-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
