@@ -13,4 +13,4 @@ You're going to be tackling the lesson `jQuery Traffic Light`. If you finish tha
 We love to see your progress! When you finish `jQuery Decorator`, screenshot your stylish new living room or code and share with **\#flatironcodeclub** and **\#jquerytrafficlight**.
 
 
-<a href='https://learn.co/lessons/hs-code-club-more-jquery-methods-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-more-jquery-methods-intro' title='More jQuery Methods'>More jQuery Methods</a> on Learn.co and start learning to code for free.</p>
